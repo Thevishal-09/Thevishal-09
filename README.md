@@ -7,8 +7,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Drupal devloper.
-- 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 
 <h3>🛠 Tech Stack</h3>
