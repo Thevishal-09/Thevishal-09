@@ -10,7 +10,6 @@
 - 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikki407&layout=compact&text_color=daf7dc&bg_color=151515" alt="Rikki407's Github Stats">
 
 <h3>🛠 Tech Stack</h3>
 
