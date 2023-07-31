@@ -1,11 +1,9 @@
-<h2> Hey there! I'm Vishal Yadav 👋  <a href="https://www.rlamba.com/"><em>Click here to view my Portfolio</em></a></h2>
-<!-- <a href="https://www.rlamba.com/"><img alt="GIF" src="https://user-images.githubusercontent.com/26832011/148662938-3bd7a83c-3369-4c59-813d-4a68d512fadd.gif" width="100%"/></a> -->
+<h2> Hey there! I'm Vishal Yadav 👋 
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rikki407&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rikki407's Github Stats"> -->
 
-- 🔭 &nbsp; I’m a FullStack Developer with proficiency in NodeJs/React & Three.js/WebGL
+- 🔭 &nbsp; I’m a FullStack Developer with proficiency in drupal
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Drupal devloper.
