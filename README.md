@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m a FullStack Developer with proficiency in drupal
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Drupal devloper.
+- 💼 &nbsp; Drupal Developer.
 - 🌱 &nbsp; 
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
