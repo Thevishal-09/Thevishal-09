@@ -3,7 +3,7 @@
 <h2> 👨🏻‍💻 About Me </h2>
 
 
-- 🔭 &nbsp; I’m a FullStack Developer with proficiency in drupal
+- 🔭 &nbsp; I’m a Backend Developer with proficiency in drupal
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Drupal Developer.
