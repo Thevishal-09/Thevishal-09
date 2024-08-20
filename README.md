@@ -7,13 +7,13 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Drupal Developer.
-- 🌱 &nbsp; 
+- 🌱 &nbsp; Grow like a tree
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Drupal 8,9,10 | ReactJS | API
+- 💻 &nbsp; Drupal 8,9,10 | API
 - 🌐 &nbsp; PHP | JavaScript
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Visual Studio code | Git | Postman | LAMP | Linux | AWS | Basecamp
